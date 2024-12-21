@@ -45,7 +45,7 @@
 - Установила Microsoft Visual Studio 2022.
 - Создала новый 3D проект.
 - Синхронизировала Microsoft Visual Studio с Unity.
-- В программе Unity добавила новый скрипт, после чего, в программе Microsoft Visual Studio, прописала код:
+- В программе Unity в окне Project в папке Assets создала новый C# Script, в созданном скрипте написала код:
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -68,8 +68,8 @@ public class HelloWorld : MonoBehaviour
 }
 
 ```
-- Указала сцену в программе Unity и добавила скрипт
-- Запустила программу Unity.
+- В программе Unity прикрепила скрипт к объекту Main Camera.
+- В верхней части редактора Unity запустила проект, нажав кнопку Play.
 - ![Task2-Lab1](https://github.com/user-attachments/assets/e8663b3e-4522-49b6-8d15-fd52890070a9)
 
 ## Задание 3
